@@ -1,0 +1,5 @@
+{
+  "name": "DebtPulse US: The Python Ledger",
+  "description": "A high-fidelity Streamlit dashboard providing real-time simulations and interactive visualizations of the US National Debt.",
+  "requestFramePermissions": []
+}
